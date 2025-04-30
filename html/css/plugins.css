@@ -2487,6 +2487,7 @@ input[type="button"]{
 .icon-wpexplorer:before { content: '\f2de'; } /* '' */
 .icon-meetup-1:before { content: '\f2e0'; } /* '' */
 .icon-facebook-1:before { content: '\f300'; } /* '' */
+.icon-linkedin-1:before { content: '\f300'; } /* '' */
 .icon-group-circled:before { content: '\f300'; } /* '' */
 .icon-facebook-rect:before { content: '\f301'; } /* '' */
 .icon-torso:before { content: '\f301'; } /* '' */
@@ -2534,6 +2535,7 @@ input[type="button"]{
 .icon-twitter-circled:before { content: '\f318'; } /* '' */
 .icon-lastfm-1:before { content: '\f318'; } /* '' */
 .icon-facebook-1:before { content: '\f319'; } /* '' */
+.icon-linkedin-1:before { content: '\f319'; } /* '' */
 .icon-lastfm-rect:before { content: '\f319'; } /* '' */
 .icon-linkedin-1:before { content: '\f31a'; } /* '' */
 .icon-facebook-circled:before { content: '\f31b'; } /* '' */
